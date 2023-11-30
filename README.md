@@ -6,3 +6,4 @@ Jean Pierre: Utilisateur
 
 Tarik:  Catalogue
 
+trello : https://trello.com/b/plZN9o5p/projetarchitecture
